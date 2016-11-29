@@ -1,7 +1,7 @@
 <h1>Radiopaedia Uploader: </h1> <h2>Agent</h2>
 
 <p>
-Created by <a href="mailto:andy.le@mh.org.au">Andy Le of The Royal Melbourne Hospital</a> for <a href="https://www.radiopaedia.org">Radiopaedia.org</a>
+Created by <a href="mailto:andyle2k@gmail.com">Andy Le</a> for <a href="https://www.radiopaedia.org">Radiopaedia.org</a>
 </p>
 <br />
 ASP.NET (C#) Plugins/Libraries:
@@ -27,7 +27,7 @@ Notes:
 <br>
 <p>
 Further detailed instructions can be found on the manual here:<br>
-<a href="https://github.com/radiopaedia/uploader-agent/blob/master/Radiopaedia%20Uploader%20Manual%2020161129_1521.pdf">
-https://github.com/radiopaedia/uploader-agent/blob/master/Radiopaedia%20Uploader%20Manual%2020161129_1521.pdf
+<a href="https://github.com/radiopaedia/uploader-agent/blob/master/Radiopaedia%20Uploader%20Manual%2020161129_1609.pdf">
+https://github.com/radiopaedia/uploader-agent/blob/master/Radiopaedia%20Uploader%20Manual%2020161129_1609.pdf
 </a>
 </p>
