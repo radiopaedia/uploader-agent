@@ -1,4 +1,8 @@
 <h1>Radiopaedia Uploader: </h1> <h2>Agent</h2>
+
+<p>
+Created by <a href="mailto:andy.le@mh.org.au">Andy Le of The Royal Melbourne Hospital</a> for <a href="https://www.radiopaedia.org">Radiopaedia.org</a>
+</p>
 <br />
 ASP.NET (C#) Plugins/Libraries:
 <ul>
