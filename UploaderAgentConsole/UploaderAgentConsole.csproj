@@ -35,15 +35,15 @@
   <ItemGroup>
     <Reference Include="ClearCanvas.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\CC DLLS\ClearCanvas.Common.dll</HintPath>
+      <HintPath>..\lib\ClearCanvas.Common.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.Desktop, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.Desktop.dll</HintPath>
+      <HintPath>..\lib\ClearCanvas.Desktop.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.Dicom, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\CC DLLS\ClearCanvas.Dicom.dll</HintPath>
+      <HintPath>..\lib\ClearCanvas.Dicom.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.Dicom.Codec.Jpeg">
       <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.Dicom.Codec.Jpeg.dll</HintPath>
@@ -52,31 +52,32 @@
       <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.Dicom.Codec.Rle.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.ImageViewer">
-      <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.ImageViewer.dll</HintPath>
+      <HintPath>..\lib\ClearCanvas.ImageViewer.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.ImageViewer.Common">
-      <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.ImageViewer.Common.dll</HintPath>
+      <HintPath>..\lib\ClearCanvas.ImageViewer.Common.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.ImageViewer.Configuration">
-      <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.ImageViewer.Configuration.dll</HintPath>
+      <HintPath>..\lib\ClearCanvas.ImageViewer.Configuration.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.ImageViewer.Core.Functions">
       <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.ImageViewer.Core.Functions.dll</HintPath>
     </Reference>
     <Reference Include="ClearCanvas.ImageViewer.Tools.Standard">
-      <HintPath>..\..\..\Work\ClearCanvas DLLs\Built20131203\ClearCanvas.ImageViewer.Tools.Standard.dll</HintPath>
+      <HintPath>..\lib\ClearCanvas.ImageViewer.Tools.Standard.dll</HintPath>
+    </Reference>
+    <Reference Include="ClearCanvas.Utilities.Manifest">
+      <HintPath>..\lib\ClearCanvas.Utilities.Manifest.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetZip, Version=1.13.6.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotNetZip.1.13.6\lib\net40\DotNetZip.dll</HintPath>
     </Reference>
     <Reference Include="Grapevine, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Grapevine.3.1.0\lib\net40\Grapevine.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Ionic.Zip, Version=1.9.8.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL">
-      <HintPath>..\packages\DotNetZip.1.9.8\lib\net20\Ionic.Zip.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\CC DLLS\log4net.dll</HintPath>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
